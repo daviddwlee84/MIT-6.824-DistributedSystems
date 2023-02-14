@@ -1,13 +1,14 @@
 # MIT 6.824 Distributed Systems
 
-* [6.824 Home Page: Spring 2021](https://pdos.csail.mit.edu/6.824/)
-  * [6.824 Schedule: Spring 2021](https://pdos.csail.mit.edu/6.824/schedule.html)
+* [6.824 Home Page: Spring 2022](https://pdos.csail.mit.edu/6.824/)
+  * [6.824 Schedule: Spring 2022](https://pdos.csail.mit.edu/6.824/schedule.html)
 
 ## Schedule
 
-| Week                | Lecture               | Assignments |
-| ------------------- | --------------------- | ----------- |
-| 2021/6/14~2021/6/20 | Do online go tutorial | -           |
+| Week                | Lecture                                      | Assignments |
+| ------------------- | -------------------------------------------- | ----------- |
+| 2021/6/14~2021/6/20 | Do online go tutorial                        | -           |
+| 2022/12/22          | [Lecture 1](Lectures/Lecture1_Introduction/) | -           |
 
 Preparation
 
@@ -26,6 +27,8 @@ Preparation
 Lecture
 
 * [ ] Lec 1: Introduction
+  * [Lecture 1: Introduction - YouTube](https://www.youtube.com/watch?v=WtZ7pcRSkOA)
+  * [Note](Lectures/Lecture1_Introduction/README.md)
 * [ ] Lec 2: RPC and Threads
 * [ ] Lec 3: GFS
 * [ ] Lec 4: Primary-Backup Replication

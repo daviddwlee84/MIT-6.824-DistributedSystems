@@ -28,7 +28,8 @@ Preparation
 Lecture
 
 * [ ] Lec 1: Introduction
-  * [Lecture 1: Introduction - YouTube](https://www.youtube.com/watch?v=WtZ7pcRSkOA)
+  * [Lecture 1: Introduction - YouTube (2021)](https://www.youtube.com/watch?v=WtZ7pcRSkOA)
+  * [Lecture 1: Introduction - YouTube (2020)](https://www.youtube.com/watch?v=cQP8WApzIQQ)
   * [Note](Lectures/Lecture1_Introduction/README.md)
 * [ ] Lec 2: RPC and Threads
 * [ ] Lec 3: GFS

@@ -2,6 +2,7 @@
 
 * [6.824 Home Page: Spring 2022](https://pdos.csail.mit.edu/6.824/)
   * [6.824 Schedule: Spring 2022](https://pdos.csail.mit.edu/6.824/schedule.html)
+  * [MIT 6.824 Distributed Systems (Spring 2020) - YouTube](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 
 ## Schedule
 
